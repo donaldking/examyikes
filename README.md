@@ -1,7 +1,7 @@
 # ExamYikes
 BlackSwan iOS Fever Release by Donald King
 
-# Approach for ExamYikes!
+Development approach used for this ExamYikes! project
 
 # Third party library
 
