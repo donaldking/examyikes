@@ -1,9 +1,9 @@
-# examyikes
+# ExamYikes
 BlackSwan iOS Fever Release by Donald King
 
-Approach for ExamYikes!
+# Approach for ExamYikes!
 
-Third party library
+# Third party library
 
 •	I’ve used cocoapods dependency management to support with boilerplate routine like network requests. For this I’ve used AFNetworking 2.5.3
 
@@ -11,7 +11,7 @@ Third party library
 
 
 
-Coding Standard
+# Coding Standard
 
 •	I've implemented this solution following the highest coding standard using the latest iOS technologies like AutoLayout and SizeClasses to make it work on iPhone and iPads and smoothly.
 
@@ -22,7 +22,7 @@ Coding Standard
 •	I've done a code review of the code to ensure its in high standard
 
 
-Unit Testing
+# Unit Testing
 
 •	I've written unit test to guarantee quality of the service – EYConnectionManagerTests and EYAPIGetCoursesTests. In total, both a total of 6 test cases, which covered about 90% testing, combined.
 
